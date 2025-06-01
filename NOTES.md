@@ -20,4 +20,6 @@ Keep in mind.
 ![image](https://github.com/user-attachments/assets/7c7457be-5f35-4a38-81e1-440f8a54c71f)
 R = p*l/S
 
+## Capacitor energy storage
+![image](https://github.com/user-attachments/assets/c7bd0360-efe1-4986-9f93-fa5469b92185)
 
