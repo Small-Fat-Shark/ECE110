@@ -25,13 +25,18 @@ Keep in mind.
 
 ## Cylindrical Nichrome Conductor
 ![image](https://github.com/user-attachments/assets/7c7457be-5f35-4a38-81e1-440f8a54c71f)
+
+$$
 R = p*l/S
+$$
 
 ## Capacitor energy storage
 ![image](https://github.com/user-attachments/assets/c7bd0360-efe1-4986-9f93-fa5469b92185)
+$$
 \begin{equation}
 E=\frac{1}{2}CU^2
 \end{equation}
+$$
 
 ![image](https://github.com/user-attachments/assets/b8e4c5b2-0e50-4bbd-9a6e-7e7d113d90ee)
 ![image](https://github.com/user-attachments/assets/08c8c482-0f92-41ec-9548-99bb767a0c81)
